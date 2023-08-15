@@ -10,4 +10,7 @@ As of right now, there are a few non-goals that are out of scope.
 1. Fancy CSS styling
 2. Server side anything
 
+## Live Site
+To visit the live site, [check it out here](https://thatplace69.com/odin-recipes/)
+
 

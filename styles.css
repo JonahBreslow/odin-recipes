@@ -1,14 +1,29 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(223, 250, 247);
+}
+
 h1 {
-    font-size: 2em;
-    color: #000;
-    text-transform: uppercase;
+  font-size: 2em;
+  color: white;
+  background-color: brown;
+  outline: 1px solid black;
+  text-shadow: 0cqmax;
+  text-align: center;
+}
+
+li {
+    font-weight: 550;
 }
 
 .link {
-    text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .thumbnail-img {
-    width: 300px;
-    height: auto;
+  width: auto;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
